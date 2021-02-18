@@ -1,0 +1,1 @@
+gsap.from('#overlay h5' , { duration : 2 , delay : 2 , y : 10, opacity: 0 , ease : "expo.inOut" });
